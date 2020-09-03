@@ -1,2 +1,2 @@
-# desarrollo_angular
+# Angular
 Desarrollo de páginas con Angular
